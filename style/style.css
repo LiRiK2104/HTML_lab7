@@ -1,0 +1,85 @@
+body{
+width:800px;
+padding-left:50%;
+margin:0px;
+}
+
+#main{
+width:800px;
+margin-left: -400px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/fon_bg.jpg?raw=true);
+background-repeat: repeat-y;
+}
+
+#main{
+width:800px;
+margin-left: -400px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/fon_bg.jpg?raw=true);
+background-repeat: repeat-y;
+}
+
+#header{
+width: 800px;
+height: 155px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/header.jpg?raw=true);
+background-repeat:no-repeat;
+}
+
+#menu1{
+width:800px;
+height:35px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/menu1.jpg?raw=true);
+background-repeat:no-repeat;
+}
+
+#menu2{
+width:800px;
+height:36px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/menu2.jpg?raw=true);
+background-repeat:no-repeat;
+}
+
+#menu3{
+width:800px;
+height:72px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/menu3.jpg?raw=true);
+background-repeat:no-repeat;
+}
+
+#reklama{
+float:left;
+width:263px;
+}
+
+#reklama_top{
+width:263px;
+height:67px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/reklama_top.jpg?raw=true);
+background-repeat:no-repeat;
+}
+
+#reklama_text{
+width:263px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/reklama_bg.jpg?raw=true);
+background-repeat: repeat-y;
+}
+
+#reklama_bottom{
+width:263px;
+height:35px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/reklama_bottom.jpg?raw=true);
+background-repeat:no-repeat;
+}
+
+#content{
+float:left;
+width:507px;
+}
+
+#footer{
+clear:both;
+width:800px;
+height:28px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/footer.jpg?raw=true);
+background-repeat: repeat-x;
+}
