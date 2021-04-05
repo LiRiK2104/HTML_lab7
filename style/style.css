@@ -11,6 +11,13 @@ background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images
 background-repeat: repeat-y;
 }
 
+#main{
+width:800px;
+margin-left: -400px;
+background-image: url(https://github.com/KirillSh22/HTML_lab7/blob/master/images/fon_bg.jpg?raw=true);
+background-repeat: repeat-y;
+}
+
 #header{
 width: 800px;
 height: 155px;
